@@ -6,8 +6,10 @@
       - libreoffice-fresh
       - hunspell
       - hunspell-en_us
+      - hunspell-fr
       - hyphen
       - hyphen-en
+      - hyphen-fr
       - libmythes
       - mythes-en
     state: latest
